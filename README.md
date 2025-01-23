@@ -2,4 +2,6 @@
 
 ## Installation
 
+Lorem Ipsom
+
 ## Configurations
